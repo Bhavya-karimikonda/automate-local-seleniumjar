@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name = "TestNG Automation Suite">
+	
+	<test name = "Testing multiple classes">
+		
+		<classes>
+			
+			<class name="BrowserStack.programUsingSeleniumJar"></class>
+		</classes>
+		
+	</test>
+	
+	
+</suite>
